@@ -1,1 +1,1 @@
-# AI-Workshop-name
+# AI-Workshop 2023
